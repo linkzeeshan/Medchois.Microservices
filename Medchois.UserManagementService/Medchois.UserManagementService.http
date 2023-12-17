@@ -1,0 +1,6 @@
+@Medchois.UserManagementService_HostAddress = http://localhost:5098
+
+GET {{Medchois.UserManagementService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
